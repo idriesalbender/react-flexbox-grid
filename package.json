@@ -1,0 +1,35 @@
+{
+  "name": "react-flexbox-grid",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "start": "npm run parcel src/index.html"
+  },
+  "description": "A simple React flexbox grid using styled-components.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idriesalbender/react-flexbox-grid.git"
+  },
+  "keywords": [
+    "grid",
+    "react",
+    "flexbox",
+    "styled-components",
+    "responsive",
+    "fluid"
+  ],
+  "author": "idriesalbender",
+  "bugs": {
+    "url": "https://github.com/idriesalbender/react-flexbox-grid/issues"
+  },
+  "homepage": "https://github.com/idriesalbender/react-flexbox-grid#readme"
+}
