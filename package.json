@@ -1,5 +1,5 @@
 {
-  "name": "react-flexbox-grid",
+  "name": "@idix/react-flexbox-grid",
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "Apache-2.0",
